@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+:root {
+  --main-background-color: #e5e5e5;
+  --minor-background-color: #f5f4fa;
+  --footer-background-color: #2f303a;
+  --section-background-color: #ffffff;
+  --main-button-color: #2196f3;
+  --minor-button-color: #f5f4fa;
+  --main-text-color: #212121;
+  --minor-text-color: #757575;
+  --contrast-text-color: #ffffff;
+  --selected-text-color: #2196f3;
+}
+
+/*font-family: 'Oleo Script', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Roboto', sans-serif;*/
